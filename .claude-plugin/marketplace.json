@@ -169,7 +169,7 @@
         "url": "https://github.com/Bigdata-com/bigdata-plugins-marketplace.git",
         "path": "plugins/bigdata-com",
         "ref": "main",
-        "sha": "c77a09caabdc8783adbcbf8bbe05a0f57da12b19"
+        "sha": "76a043a08c0a10eb73756d04031a613568017067"
       }
     },
     {
@@ -184,7 +184,7 @@
         "url": "https://github.com/miroapp/miro-ai.git",
         "path": "claude-plugins/miro",
         "ref": "main",
-        "sha": "706b24b6564eaaea33e75ac66c83af9abf3b5a41"
+        "sha": "85c2c7347542b3ce185eb1d2793f8d79ad485c63"
       }
     },
     {
@@ -222,7 +222,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/sanity-io/agent-toolkit.git",
-        "sha": "236348e29b31e834ce71e4e2e3072184dd1c1e27"
+        "sha": "6c81e246ed9d63588ca1fb624f29ac804184d1be"
       },
       "homepage": "https://www.sanity.io"
     },
@@ -233,7 +233,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Zoominfo/zoominfo-mcp-plugin.git",
-        "sha": "14752e4553312d8af3eb3a3264a97d76bb3e0215"
+        "sha": "66eae634f40f68bddc6027f0167bbecdb5f4b531"
       },
       "homepage": "https://zoominfo.com"
     },
@@ -257,7 +257,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/daloopa/plugin.git",
-        "sha": "cc0d09689397e64db7344634246326e7d7d9a42d"
+        "sha": "a4d8e1ee1a85f291c36c07dbcb23d1ca0cd182b5"
       },
       "homepage": "https://github.com/daloopa/plugin"
     },
@@ -271,7 +271,7 @@
         "url": "https://github.com/zapier/zapier-mcp.git",
         "path": "plugins/zapier",
         "ref": "main",
-        "sha": "f34a7854febed415c9ef766eec1c66529ef0668e"
+        "sha": "0aa7d902096d45b96b58934d1072c5bbc0482e70"
       },
       "homepage": "https://github.com/zapier/zapier-mcp/tree/main/plugins/zapier"
     },
@@ -293,7 +293,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cockroachdb/claude-plugin.git",
-        "sha": "736bd11df55bac97e2a6c98be8e93503b125902c"
+        "sha": "c511ba806b1797b1737fc4cbffbe3dba8697b1f2"
       },
       "homepage": "https://github.com/cockroachdb/claude-plugin"
     },
@@ -315,7 +315,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/fastly/fastly-agent-toolkit.git",
-        "sha": "e0f4205723b843de0b07da4a2aea6c84a3bcb579"
+        "sha": "ea3623d5facc7053eaa802f5fc483dd7121a39aa"
       },
       "homepage": "https://github.com/fastly/fastly-agent-toolkit/blob/main/README.md"
     },
@@ -326,7 +326,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cloudinary-devs/cloudinary-plugin.git",
-        "sha": "7b443d7dbd607bfe4850d8cfcab6ba4cbf1a57c3"
+        "sha": "77ed3c5da085ef1d189948f9ff2a1bf5ab7b257b"
       },
       "homepage": "https://cloudinary.com/documentation"
     },
@@ -337,7 +337,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Nimbleway/agent-skills.git",
-        "sha": "b3ab05d3c7c88857940c575e0f46752297b2249b"
+        "sha": "fdd3d17713f591b2643d90c35f44546f97458163"
       },
       "homepage": "https://docs.nimbleway.com/integrations/agent-skills/plugin-installation"
     },
@@ -348,7 +348,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/brightdata/skills.git",
-        "sha": "37145178dfc9b52e28dd224afeccc7184f7711fc"
+        "sha": "e825f02fbcd7a89087fd1053a57ddcd45113370f"
       },
       "homepage": "https://docs.brightdata.com"
     },
@@ -370,7 +370,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/atlanhq/agent-toolkit.git",
-        "sha": "790398c87378f128bdc74c31bb7ecfb8e4695f29"
+        "sha": "86bb1ad27f80e189b328333d2271b360ae579f2b"
       },
       "homepage": "https://docs.atlan.com/"
     },
@@ -383,7 +383,7 @@
         "url": "techwolf-ai/ai-first-toolkit",
         "path": "plugins/ai-firstify",
         "ref": "main",
-        "sha": "d7270ecd28f36d2454b36f397a28a96b0b7a5630"
+        "sha": "ac797fb18a75f7b584f67074a0c7b6ef9c03bd84"
       },
       "homepage": "https://ai-first.techwolf.ai"
     },
@@ -405,7 +405,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gitroomhq/postiz-agent.git",
-        "sha": "238aede6c72672b3201ae0ee533ec0cd53eb51d1"
+        "sha": "41c5a9dbd6b2776863e7c05c22e7a385c208321c"
       },
       "homepage": "https://postiz.com/agent"
     },
@@ -417,7 +417,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/figma/mcp-server-guide.git",
-        "sha": "a742f0a700a7772ff5ed85f7c9fc1dad5afa9fcc"
+        "sha": "07316dd2920d61303ca0e52812b31f5f341e7b15"
       },
       "homepage": "https://github.com/figma/mcp-server-guide"
     },
@@ -431,7 +431,7 @@
         "url": "https://github.com/adobe/skills.git",
         "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
-        "sha": "9ca1da262869ca2fb5f6c3daae2f7eeb648c937d"
+        "sha": "42ce10fddeda2a77bb61a6d491db7b8cbb73927c"
       },
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
@@ -449,7 +449,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/box/box-for-ai.git",
-        "sha": "16f1a0427710b0812519ea634cd5ce6830bde8fc"
+        "sha": "172a8273f5d532c13ef6a3057e50c30e5368a2aa"
       },
       "homepage": "https://github.com/box/box-for-ai"
     },
@@ -475,7 +475,7 @@
         "url": "https://github.com/kensho-technologies/spglobal-agent-skills.git",
         "path": "plugins/spglobal-plugin",
         "ref": "main",
-        "sha": "6f41866ea66c63eb80c42e6f652efdac5870e540"
+        "sha": "6add941c4c084ca50ae23bc3df28b5a10a218c93"
       },
       "homepage": "https://kensho.com"
     }
